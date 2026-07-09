@@ -1,5 +1,5 @@
 {
-  "name": "caesarcipher-extended",
+  "name": "viratiakiranandhanreddy",
   "version": "0.1.0",
   "description": "NA",
   "license": "MIT",
@@ -23,11 +23,11 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViratiAkiraNandhanReddy/caesarcipher-extended-js.git"
+    "url": "git+https://github.com/ViratiAkiraNandhanReddy/npm-viratiakiranandhanreddy-js.git"
   },
   "bugs": {
-    "url": "https://github.com/ViratiAkiraNandhanReddy/caesarcipher-extended-js/issues"
+    "url": "https://github.com/ViratiAkiraNandhanReddy/npm-viratiakiranandhanreddy-js/issues"
   },
-  "homepage": "https://github.com/ViratiAkiraNandhanReddy/caesarcipher-extended-js#readme",
+  "homepage": "https://github.com/ViratiAkiraNandhanReddy/npm-viratiakiranandhanreddy-js#readme",
   "author": "Virati Akiranandhan Reddy"
 }
